@@ -1,6 +1,5 @@
 # qub-library-management
-
-##Overview
+## Overview
 This project simulates a small-scale library system where users can borrow, return, and search for books. It was developed for the CSC1029 module to demonstrate object-oriented programming principles in Java.
 The project was graded A [>=70] and is one of my highest graded projects in Queens.
     ## Features
