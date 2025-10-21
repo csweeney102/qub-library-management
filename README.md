@@ -14,4 +14,5 @@ You can install and run the project in 2 ways.
 You may need to install CSC1029Console.jar
  ## Usage
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a6a12743-1e53-4f55-8510-a205d948bbdb" />
+
 The application is almost entirely controlled by use of the numberrow. Select the respective option and press enter. Some fields may require text input.
